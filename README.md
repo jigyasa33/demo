@@ -1,1 +1,1 @@
-# demo
+Basic CI/CD pipeline setup
